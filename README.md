@@ -3,14 +3,13 @@
 
 **NaturalKiller-code/NaturalKiller-code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Soy estudiante de la licenciatura en Ciencias genómicas en la Escuela Nacional de Estudios Superiores, Juriquilla de la Universidad Nacional Autónoma de México.
+I am a student of the degree in Genomic Sciences at the Escuela Nacional de Estudios Superiores, Juriquilla of the Universidad Nacional Autónoma de México.
 
-Me gusta la evolución, la investigación de DNA antiguo (aDNA) y Bioquímica. 
-He trabajado en algunos proyectos:
-- En manipulación y archivado de restos arqueológicos en la zona arquelógica de Los Remedios en Comonfort, Guanajuato.
-- Trabajé como ayudante de laboratorista en la Facultad de Ciencias en la UNAM, en el área de procariontes.
-- En el proyecto de Santa Lucia en analisis metagenómicos.
-- Actualmente estoy ayudando en el análisis de variantes de muestras antiguas de HLA.
+I like evolution, ancient DNA (aDNA) research and Biochemistry. I have worked in some projects:
 
+In manipulation and archiving of archaeological remains in the archaeological zone of Los Remedios in Comonfort, Guanajuato.
+I worked as a laboratory assistant in the Faculty of Sciences at UNAM, in the area of prokaryotes.
+In the Santa Lucia project in metagenomic analysis.
+Currently I am helping in the analysis of variants of old HLA samples.
   
 
